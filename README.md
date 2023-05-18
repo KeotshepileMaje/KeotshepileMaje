@@ -11,9 +11,17 @@ I'm a Junior Software Developer with a great passion for programming, I am excit
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" title='javascript'/>
 </div>
 
+<div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=olebogengrasebitse&show_icons=true&locale=en&layout=compact" alt="olebogengrasebitse" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KeotshepileMaje&show_icons=true&locale=en" alt="KeotshepileMaje" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KeotshepileMaje&" alt="KeotshepileMaje" /></p>
+</div>
+
+
+
 <h2>CONTACT DETAILS</h2>
 <div>Reach me@:
 <div>Email: Keotshepilemaje@gmail.com</div>
 <div>linkedin.com/in/keotshepile-maje</div>
 <div>Whatsapp/Call @0769277970</div>
-
+  
