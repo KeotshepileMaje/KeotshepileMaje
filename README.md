@@ -32,8 +32,8 @@ I'm a Junior Software Developer with a great passion for programming, I am excit
 <div>Email: Keotshepilemaje@gmail.com</div>
 <div>
   <a href="https://linkedin.com/in/linkedin.com/in/keotshepile-maje" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/keotshepile-maje" height="30" width="40" />
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/keotshepile-maje" height="20" width="20" />
+   &nbsplinkedin.com/in/keotshepile-maje
   </a>
-  linkedin.com/in/keotshepile-maje
-  </div>
+</div>
 <div>Whatsapp/Call @0769277970</div>
