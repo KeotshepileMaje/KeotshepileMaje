@@ -14,4 +14,5 @@ I'm a Junior Software Developer with a great passion for programming, I am excit
 <h2>CONTACT DETAILS</h2>
 <div>Email: Keotshepilemaje@gmail.com</div>
 <div>linkedin.com/in/keotshepile-maje</div>
+<div>Whatsapp/Call @0769277970</div>
 
