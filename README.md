@@ -20,11 +20,12 @@ I'm a Junior Software Developer with a great passion for programming, I am excit
 <h2>STATS</h2>
 <div>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KeotshepileMaje&show_icons=true&locale=en&layout=compact" alt="KeotshepileMaje" />
-  </p>
-  <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KeotshepileMaje&show_icons=true&locale=en" alt="KeotshepileMaje" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=keotshepilemaje&show_icons=true&locale=en&layout=compact" alt="keotshepilemaje" />
 </p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=keotshepilemaje&show_icons=true&locale=en" alt="keotshepilemaje" />
+</p>
+
 </div>
 
 <h2>CONTACT DETAILS</h2>
@@ -37,3 +38,9 @@ I'm a Junior Software Developer with a great passion for programming, I am excit
   </a>
 </div>
 <div>Whatsapp/Call @0769277970</div>
+  
+  
+  
+  
+  
+ 
