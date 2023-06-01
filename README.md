@@ -22,25 +22,25 @@ I'm a Junior Software Developer with a great passion for programming, I am excit
 ---
 
 ## STATS
-<div>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=keotshepilemaje&show_icons=true&locale=en&layout=compact" alt="keotshepilemaje" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=keotshepilemaje&show_icons=true&locale=en" alt="keotshepilemaje" />
-</p>
 
-</div>
+![nion](https://github-readme-stats.vercel.app/api?username=keotshepilemaje&show_icons=true&locale=en)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=keotshepilemaje&show_icons=true&locale=en&layout=compact)
+
+---
+
+
 
 ## CONTACT DETAILS
-<div>Reach me@:
-<div>Email: Keotshepilemaje@gmail.com</div>
-  <a href="https://www.linkedin.com/in/keotshepile-maje/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/keotshepile-maje" height="20" width="20" />
-   &nbsplinkedin.com/in/keotshepile-maje
-  </a>
+Reach me@:
 
-<div>Whatsapp/Call @0769277970</div>
+Email: Keotshepilemaje@gmail.com
+
+![!(linkedin.com/in/keotshepile-maje/)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
+
+
+Whatsapp/Call @0769277970
   
   
   
