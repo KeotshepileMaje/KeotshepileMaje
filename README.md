@@ -23,18 +23,18 @@ I'm a Junior Software Developer with a great passion for programming, I am excit
 
 ## Experience 
 
-#### Interactive Web Application (IWA) 
+#### [Interactive Web Application (IWA)](https://github.com/KeotshepileMaje/KEOMAJ871_Benjamin_KeotshepileMaje_IWA)
 
 Capstone Project Debugged and enhanced an existing web application codebase, conducting thorough audits and resolving issues. Successfully presented and defended code enhancements, showcasing debugging skills in a live panel review. Demonstrated proficiency in web development, problem-solving, and debugging, advancing to the next software development course. 
 
-#### Dynamic Web Application (DWA) Structuring JavaScript 
+#### [Dynamic Web Application (DWA) Structuring JavaScript](https://github.com/KeotshepileMaje/KEOMAJ871_BCL2302_Benjamin_2B_KeotshepileMaje_DWA)
 
 Acquired expertise in writing clean, maintainable, and scalable JavaScript code. Learned code complexity management, documentation, and error handling. Explored object-oriented and functional programming principles, enhancing code modularity and problem-solving skills.
 
 ## Projects
 
 #### Book Connect 
-##### [View Code](mailto:Keotshepilemaje@gmail.com)
+##### [View Code](https://github.com/KeotshepileMaje/book-connect-main)
 View Code
 In this project, I conducted an extensive JavaScript debugging process to resolve critical errors in the Book Connect social media platform. I identified and fixed issues that hindered the application's functionality while also optimizing the code for better performance. The primary goal was to ensure a smooth user experience, addressing issues with book previews, images, summaries, filtering, and dark/light modes. 
 
