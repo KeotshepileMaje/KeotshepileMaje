@@ -34,7 +34,7 @@ Acquired expertise in writing clean, maintainable, and scalable JavaScript code.
 ## Projects
 
 #### Book Connect 
-##### [Gmail Badge](mailto:Keotshepilemaje@gmail.com)
+##### [View Code](mailto:Keotshepilemaje@gmail.com)
 View Code
 In this project, I conducted an extensive JavaScript debugging process to resolve critical errors in the Book Connect social media platform. I identified and fixed issues that hindered the application's functionality while also optimizing the code for better performance. The primary goal was to ensure a smooth user experience, addressing issues with book previews, images, summaries, filtering, and dark/light modes. 
 
