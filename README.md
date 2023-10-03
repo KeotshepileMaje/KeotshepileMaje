@@ -1,6 +1,6 @@
 <h1 align='center'>Hi👋, I’m KEOTSHEPILE MAJE</h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-KeotshepileMaje-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/anirudhemmadi/)
+[![Linkedin Badge](https://img.shields.io/badge/-KeotshepileMaje-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keotshepile-maje/)](https://www.linkedin.com/in/anirudhemmadi/)
 [![Gmail Badge](https://img.shields.io/badge/-Keotshepilemaje@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Keotshepilemaje@gmail.com)](mailto:Keotshepilemaje@gmail.com)
 
 ## ABOUT ME
