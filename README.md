@@ -43,6 +43,3 @@ In this project, I conducted an extensive JavaScript debugging process to resolv
 
 ![nion](https://github-readme-stats.vercel.app/api?username=keotshepilemaje&show_icons=true&locale=en) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=keotshepilemaje&show_icons=true&locale=en&layout=compact)
 
-
-
-
