@@ -22,10 +22,8 @@ I'm a Junior Software Developer with a great passion for programming, I am excit
 
 ## TOOLS
 
-![Git](	https://img.shields.io/badge/Git-red?&style=for-the-badge&logo=git&logoColor=white)
-![Figma](	https://img.shields.io/badge/Figma-purple?&style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-
+![Git](	https://img.shields.io/badge/Git-red?&style=flat-the-badge&logo=git&logoColor=white)
+![Figma](	https://img.shields.io/badge/Figma-purple?&style=flat-the-badge&logo=figma&logoColor=white)
 ---
 
 ## STATS
