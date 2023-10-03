@@ -1,3 +1,8 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+
 <h1 align='center'>Hi👋, I’m KEOTSHEPILE MAJE</h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-KeotshepileMaje-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/anirudhemmadi/)
