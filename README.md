@@ -19,6 +19,7 @@ I'm a Junior Software Developer with a great passion for programming, I am excit
 ![Nextjs](https://img.shields.io/badge/-Nextjs-black?style=flat-square&logo=nextjs)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
 
 ## Tools
 
