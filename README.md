@@ -48,3 +48,8 @@ In this project, I conducted an extensive JavaScript debugging process to resolv
 
 ![nion](https://github-readme-stats.vercel.app/api?username=keotshepilemaje&show_icons=true&locale=en) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=keotshepilemaje&show_icons=true&locale=en&layout=compact)
 
+
+![Codewars](https://github.r2v.ch/codewars?user=keotshepileMaje&stroke=LIGHT)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/KeotshepileMaje?theme=light&font=Prosto%20One)
+
