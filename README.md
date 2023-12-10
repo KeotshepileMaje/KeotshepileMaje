@@ -51,5 +51,5 @@ In this project, I conducted an extensive JavaScript debugging process to resolv
 
 ![Codewars](https://github.r2v.ch/codewars?user=keotshepileMaje&stroke=LIGHT)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/KeotshepileMaje?theme=light&font=Prosto%20One)
+![LeetCode Stats](https://leetcard.jacoblin.cool/KeotshepileMaje?theme=light&font=Cambria)
 
